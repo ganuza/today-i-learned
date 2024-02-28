@@ -13,7 +13,7 @@ This repo has a tool that help you to manage and write down what you learned in 
 | Table of Contents | :point_down: |
 | -------- | -------- |
 | :books: **JavaScript** | |
-| [Millions-of-Numbers](javascript/millions-of-numbers.md) | 2024-02-28 |
+| [Millions-of-Numbers](JavaScript/millions-of-numbers.md) | 2024-02-28 |
 | [JavaScript30](javascript/javascript30.md) | 2024-02-23 |
 | :books: **React** | |
 | [Getting database from data range to array of enum objects](apps-script/getting-database-from-data-range-to-array-of-enum-objects.md) | 2023-09-03 |

@@ -18,4 +18,4 @@ This repo has a tool that help you to manage and write down what you learned in 
 | :books: **React** | |
 | [Getting database from data range to array of enum objects](apps-script/getting-database-from-data-range-to-array-of-enum-objects.md) | 2023-09-03 |
 | :books: **Python** | |
-| [Python-Refresher-Part-1](apps-script/Python-Refresher-Part-1.md) | 2024-03-12 |
+| [Python-Refresher-Part-1](Python/Python-Refresher-Part-1.md) | 2024-03-12 |

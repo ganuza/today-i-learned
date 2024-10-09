@@ -17,6 +17,6 @@ This repo has a tool that help you to manage and write down what you learned in 
 | [JavaScript30-DrumKit](JavaScript/javascript30-DrumKit.md) | 2024-02-23 |
 | :books: **React** | |
 | [What is React](React/what-is-react.md) | 2024-10-09 |
-| [The DOM in React](React/the-DOM.md) | 2024-10-09 |
+| [What is the difference between the Virtual DOM, Shallow DOM, and Real DOM in React?](React/the-DOM.md) | 2024-10-09 |
 | :books: **Python** | |
 | [Python-Refresher-Part-1](Python/Python-Refresher-Part-1.md) | 2024-03-12 |

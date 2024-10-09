@@ -16,7 +16,7 @@ This repo has a tool that help you to manage and write down what you learned in 
 | [Millions-of-Numbers](JavaScript/millions-of-numbers.md) | 2024-02-28 |
 | [JavaScript30-DrumKit](JavaScript/javascript30-DrumKit.md) | 2024-02-23 |
 | :books: **React** | |
-| [Getting database from data range to array of enum objects](apps-script/getting-database-from-data-range-to-array-of-enum-objects.md) | 2023-09-03 |
 | [What is React](React/what-is-react.md) | 2024-10-09 |
+| [The DOM in React](React/the-DOM.md) | 2024-10-09 |
 | :books: **Python** | |
 | [Python-Refresher-Part-1](Python/Python-Refresher-Part-1.md) | 2024-03-12 |

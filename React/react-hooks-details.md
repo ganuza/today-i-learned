@@ -100,3 +100,41 @@ Key Points:
   * Useful for performance optimization in components with heavy computations.
 
 ---
+
+#### useCallback
+
+Purpose:
+  * memoizes a function itself (vs the result of a function as in useMemo) to prevent it from being recreated on every render
+  * useful when passing callbacks to child components to prevent unnecessary re-renders
+
+```
+import React, { useCallback, useState } from 'react';
+
+function ChildComponent({ onClick }) {
+  return <button onClick={onClick}>Click me!</button>;
+}
+
+function ParentComponent() {
+  const [count, setCount] = useState(0);
+
+  const handleClick = useCallback(() => {
+    console.log('Button clicked');
+  }, []); // `handleClick` remains the same across renders
+
+  return (
+    <div>
+      <p>Parent count: {count}</p>
+      <button onClick={() => setCount(count + 1)}>Increment Count</button>
+      <ChildComponent onClick={handleClick} />
+    </div>
+  );
+}
+
+export default ParentComponent;
+```
+
+Key Points:
+  * Prevents unnecessary re-renders of child components by memoizing function references.
+  * Often used with React.memo() to optimize rendering.
+
+---

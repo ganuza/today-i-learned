@@ -138,3 +138,34 @@ Key Points:
   * Often used with React.memo() to optimize rendering.
 
 ---
+
+#### useRef
+
+Purpose:
+  * Holds a mutable reference to a DOM element or any value across renders.
+  * Does not cause re-renders when the referenced value changes.
+
+```
+import React, { useRef } from 'react';
+
+function InputFocus() {
+  const inputRef = useRef(null);
+
+  const handleFocus = () => {
+    inputRef.current.focus(); // Access the input element directly
+  };
+
+  return (
+    <div>
+      <input ref={inputRef} type="text" placeholder="Click the button to focus me" />
+      <button onClick={handleFocus}>Focus Input</button>
+    </div>
+  );
+}
+
+export default InputFocus;
+```
+
+Key Points:
+* Useful for direct DOM manipulation or keeping mutable data across renders.
+* The value inside useRef persists between renders without triggering a re-render.

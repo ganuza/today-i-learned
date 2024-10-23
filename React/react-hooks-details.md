@@ -67,3 +67,36 @@ Key Points:
   * cleanup functions are helpful for event listeners or subscriptions
 
 ---
+
+#### useMemo
+
+Purpose:
+  * memoizes the result of a function to avoid expensive recalculations unless dependencies change
+
+```
+import React, { useMemo, useState } from 'react';
+
+function ExpensiveComponent({ num }) {
+  const [count, setCount] = useState(0);
+
+  const expensiveCalculation = useMemo(() => {
+    console.log('Calculating...');
+    return num * 2;
+  }, [num]); // Only recalculates when `num` changes
+
+  return (
+    <div>
+      <p>Expensive value: {expensiveCalculation}</p>
+      <button onClick={() => setCount(count + 1)}>Increment Count: {count}</button>
+    </div>
+  );
+}
+
+export default ExpensiveComponent;
+```
+
+Key Points:
+  * Avoids unnecessary recalculations.
+  * Useful for performance optimization in components with heavy computations.
+
+---

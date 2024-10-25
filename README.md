@@ -16,6 +16,8 @@ This repo has a tool that help you to manage and write down what you learned in 
 | [Millions-of-Numbers](JavaScript/millions-of-numbers.md) | 2024-02-28 |
 | [JavaScript30-DrumKit](JavaScript/javascript30-DrumKit.md) | 2024-02-23 |
 | :books: **React** | |
+| [Explain the lifecycle method in React.js](React/react-hooks-details.md) | 2024-10-25 |
+| [What is the difference between export default and export in React.js?](React/react-hooks-details.md) | 2024-10-25 |
 | [What are details about useState, useEffect, useMemo, useCallback, and useRef hooks?](React/react-hooks-details.md) | 2024-10-23 |
 | [How to implement componentWillUnmount in function component?](React/react-class-vs-function-components.md) | 2024-10-17 |
 | [What is the difference between class and function components](React/react-class-vs-function-components.md) | 2024-10-16 |

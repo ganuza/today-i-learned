@@ -86,3 +86,22 @@ const App = () => {
 
 export default App;
 ```
+
+#### index.html Setup
+
+```
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>React Portal Example</title>
+  </head>
+  <body>
+    <div id="root"></div> <!-- React app root -->
+    <div id="portal-root"></div> <!-- Portal root -->
+
+    <script src="index.js"></script>
+  </body>
+</html>
+```

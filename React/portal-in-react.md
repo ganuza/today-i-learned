@@ -57,3 +57,32 @@ const contentStyles = {
 };
 
 export default Modal;
+```
+
+#### App Component (Using the Modal)
+
+```
+import React, { useState } from 'react';
+import Modal from './Modal';
+
+const App = () => {
+  const [isModalOpen, setIsModalOpen] = useState(false);
+
+  const openModal = () => setIsModalOpen(true);
+  const closeModal = () => setIsModalOpen(false);
+
+  return (
+    <div>
+      <h1>Hello from App Component</h1>
+      <button onClick={openModal}>Open Modal</button>
+
+      <Modal isOpen={isModalOpen} onClose={closeModal}>
+        <h2>This is a Modal!</h2>
+        <p>You can put any content here.</p>
+      </Modal>
+    </div>
+  );
+};
+
+export default App;
+```

@@ -13,19 +13,19 @@ This repo has a tool that help you to manage and write down what you learned in 
 | Table of Contents | Repo | :point_down: |
 | -------- | -------- | -------- |
 | :books: **JavaScript** | |
-| [Millions-of-Numbers](JavaScript/millions-of-numbers.md) | 2024-02-28 |
-| [JavaScript30-DrumKit](JavaScript/javascript30-DrumKit.md) | 2024-02-23 |
+| [Millions-of-Numbers](JavaScript/millions-of-numbers.md) || 2024-02-28 |
+| [JavaScript30-DrumKit](JavaScript/javascript30-DrumKit.md) || 2024-02-23 |
 | :books: **React** | |
 | [What is a portal in React.js](React/portal-in-react.md) | [Portal Modal vs Simple Modal Mini Project](https://github.com/ganuza/react-modals-demo) | 2024-10-29 |
-| [Explain the lifecycle method in React.js](React/lifecycle-method-react.md) | 2024-10-25 |
-| [What is the difference between export default and export in React.js?](React/exportdefault-vs-export.md) | 2024-10-25 |
-| [What are details about useState, useEffect, useMemo, useCallback, and useRef hooks?](React/react-hooks-details.md) | 2024-10-23 |
-| [How to implement componentWillUnmount in function component?](React/react-class-vs-function-components.md) | 2024-10-17 |
-| [What is the difference between class and function components](React/react-class-vs-function-components.md) | 2024-10-16 |
-| [What is middleware in Redux](React/what-is-redux-middleware.md) | 2024-10-16|
-| [What is React](React/what-is-react.md) | 2024-10-09 |
-| [What is the difference between the Virtual DOM, Shallow DOM, and Real DOM in React?](React/the-DOM.md) | 2024-10-09 |
-| [What is Redux](React/what-is-redux.md) | 2024-10-10 |
-| [Important Concepts in Redux](React/redux-concepts.md) | 2024-10-10 |
+| [Explain the lifecycle method in React.js](React/lifecycle-method-react.md) || 2024-10-25 |
+| [What is the difference between export default and export in React.js?](React/exportdefault-vs-export.md) || 2024-10-25 |
+| [What are details about useState, useEffect, useMemo, useCallback, and useRef hooks?](React/react-hooks-details.md) || 2024-10-23 |
+| [How to implement componentWillUnmount in function component?](React/react-class-vs-function-components.md) || 2024-10-17 |
+| [What is the difference between class and function components](React/react-class-vs-function-components.md) || 2024-10-16 |
+| [What is middleware in Redux](React/what-is-redux-middleware.md) || 2024-10-16|
+| [What is React](React/what-is-react.md) || 2024-10-09 |
+| [What is the difference between the Virtual DOM, Shallow DOM, and Real DOM in React?](React/the-DOM.md) || 2024-10-09 |
+| [What is Redux](React/what-is-redux.md) || 2024-10-10 |
+| [Important Concepts in Redux](React/redux-concepts.md) || 2024-10-10 |
 | :books: **Python** | |
-| [Python-Refresher-Part-1](Python/Python-Refresher-Part-1.md) | 2024-03-12 |
+| [Python-Refresher-Part-1](Python/Python-Refresher-Part-1.md) || 2024-03-12 |

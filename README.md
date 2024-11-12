@@ -16,7 +16,7 @@ This repo has a tool that help you to manage and write down what you learned in 
 | [Millions-of-Numbers](JavaScript/millions-of-numbers.md) || 2024-02-28 |
 | [JavaScript30-DrumKit](JavaScript/javascript30-DrumKit.md) || 2024-02-23 |
 | :books: **React** | |
-| [What is fragment in React.js](React/fragment-in-react.md) | | 2024-11-08 |
+| [What is fragment in React.js](React/fragment-in-react.md) | | 2024-11-12 |
 | [What is context API in React.js](React/context-api.md) | | 2024-11-08 |
 | [What is StrictMode in React.js](React/strictmode-in-react.md) | | 2024-11-06 |
 | [What is server side render in React.js](React/server-side-rendering.md) | | 2024-11-05 |

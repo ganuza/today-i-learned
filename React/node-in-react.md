@@ -7,7 +7,7 @@
 *  A node in React is any JavaScript object that React can render as part of the UI
 
 #### Nodes can be:
-* React elements ( <div>, <span>, etc )
+* React elements ( `<div>`, `<span>`, etc )
 * Components (both functional and class components)
 * Plain text
 * Fragments, which let you group multiple nodes without adding extra elements to the DOM

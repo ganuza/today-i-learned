@@ -16,6 +16,7 @@ This repo has a tool that help you to manage and write down what you learned in 
 | [Millions-of-Numbers](JavaScript/millions-of-numbers.md) || 2024-02-28 |
 | [JavaScript30-DrumKit](JavaScript/javascript30-DrumKit.md) || 2024-02-23 |
 | :books: **React** | |
+| [What is the difference between state and props in React.js?](React/state-vs-props.md) | | 2024-11-21 |
 | [What is a pure component in React.js?](React/pure-components.md) | | 2024-11-20 |
 | [What are higher-order components in React.js?](React/higher-order-component.md) | | 2024-11-19 |
 | [What is the default localhost server port in React.js and how can we change the port?](React/default-localhost-server-port.md) | | 2024-11-14 |

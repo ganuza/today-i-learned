@@ -25,6 +25,6 @@
   * React.js: Easier to learn if you're familiar with JavaScript. Requires learning additional tools like Redux for state management.
   * Angular.js: Steeper learning curve due to its complex features like dependency injection, directives, ans extensive built-in tools.
 
-#### Summary
+### Summary
 * React.js emphasizes flexibility and composability, making it ideal for applications that need frequent UI updates and custom setups.
 * Angular.js provides a complete toolkit for building large applications, but its structure can be overwhelming for beginners

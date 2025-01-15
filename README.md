@@ -16,7 +16,7 @@ This repo has a tool that help you to manage and write down what you learned in 
 | [Millions-of-Numbers](JavaScript/millions-of-numbers.md) || 2024-02-28 |
 | [JavaScript30-DrumKit](JavaScript/javascript30-DrumKit.md) || 2024-02-23 |
 | :books: **React** | |
-| [What is super, constructor, render function in React.js?](constructor-super-render-in-react.md) | | 2025-1-14 |
+| [What is super, constructor, render function in React.js?](React/constructor-super-render-in-react.md) | | 2025-1-14 |
 | [What is the difference between React.js and Angular.js?](React/react-vs-angular.md) | | 2024-12-10 |
 | [What is the difference between state and props in React.js?](React/state-vs-props.md) | | 2024-11-21 |
 | [What is a pure component in React.js?](React/pure-components.md) | | 2024-11-20 |

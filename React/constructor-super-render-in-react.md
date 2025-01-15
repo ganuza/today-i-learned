@@ -1,3 +1,5 @@
+### constructor, super, render functions in React.js
+
 #### 1. constructor(props)
 * The constructor is a special method in JavaScript classes, including React class components.
 * It is called before the component is mounted.
@@ -10,3 +12,8 @@
 * The render method is required in all class components.
 * It returns the JSX that defines what should be rendered on the screen.
 * The render method should be pure, meaning it should not modify state or directly interact with the DOM.
+
+### Key Takeaways:
+* super(props) is required when using a constructor in a class component to properly initialize this.
+* The constructor is mainly used to set up state and bind methods.
+* The render() method determines what appears in the UI.
